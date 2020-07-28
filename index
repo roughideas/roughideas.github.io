@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html>
+<head>
+<title>System Interactive</title>
+</head>
+	<style type="text/css">
+		a:link, a:visited {
+		color:#FFFFFF;
+		padding: 7px 17px;
+		border: 1px solid #FFFFFF;
+		text-decoration:none;
+		background-color:#1e1e1e;
+		}
+		
+		a:hover, a:active {
+		color:#FFFFFF;
+		border: 1px solid #FFFFFF;
+		text-decoration:none;
+		background-color:#757575;
+		}
+		
+				body {
+						background-color:#1e1e1e;
+		color:#FFFFFF;font-family:arial;
+			width: 90%;
+		margin: auto;
+		}
+		
+				img {
+			width: 100%;
+			margin-top: 50px;
+		}
+
+						iframe {
+						margin-top: 50px;
+
+		}
+		
+				#heading {
+				
+		margin: auto;
+		}
+
+	</style>
+<body>
+<div id="heading"><h1>System Interactive</h1></div>
+
+<div id="navbar">
+<a href="index.html">Home</a>
+<a href="games.html">Games</a>
+<a href="art.html">Art</a>
+<a href="ld.html">Level Design</a>
+<a href="https://play.google.com/store/apps/developer?id=System+Interactive">Google Play</a>
+<a href="privacypolicy.html">Privacy Policy</a>
+<!--<a href="https://www.instagram.com/ethanarchambault/">Instagram</a>-->
+</div>
+<div id="img1">
+<!-- <img src="mHouse.png" style="width:1000px;height:1000px;"/> -->
+<img src="mmbg3.1.png"/>
+</div>
+
+<!-- 
+<div id="img1">
+<img src="newpic1.png"/>
+</div>
+<div id="img2">
+<img src="newpic2.png"/>
+</div>
+<div id="img3">
+<img src="newpic3.png"/>
+</div>
+<div id="img4">
+<img src="newpic4.png"/>
+</div>
+<div id="img5">
+<img src="newpic5.png"/>
+</div>
+-->
+
+<!--<iframe frameborder="0" src="https://itch.io/embed/691579?dark=true" width="208" height="167"><a href="https://system-interactive.itch.io/carclash">Car Clash by System Interactive</a></iframe>-->
+
+</body>
+
+</html>
